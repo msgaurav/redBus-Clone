@@ -18,5 +18,5 @@ A Front Page Clone of redBus.
   * JavaScript
   * jQuery
   
-#### Notes
+#### Note
   * I do not own any copyrights, all the rights go to their respective owners. Thank You. :smiley:
